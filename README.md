@@ -28,3 +28,10 @@ oxy.strings.slugify("Olá Mundo")
 oxy.strings.normalizar("  texto  ")
 oxy.datas.hoje()
 ```
+
+## Status
+
+O oxigenpy encontra-se em desenvolvimento ativo.
+Até a versão 1.0.0, a API pública deve ser considerada instável.
+
+Versões alfa e beta são publicadas para teste e feedback.
