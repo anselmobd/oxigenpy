@@ -1,6 +1,9 @@
 # Changelog
 
-## [0.1.0] - 2026-01-19
+Este projeto segue Semantic Versioning e utiliza versões
+pré-lançamento conforme a PEP 440.
+
+## [0.1.0a1] - 2026-01-19
 
 ### Added
 - Estrutura inicial do projeto
