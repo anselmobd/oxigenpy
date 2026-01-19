@@ -1,0 +1,14 @@
+[project]
+name = "oxigenpy"
+version = "0.1.0"
+description = "Utilitários Python da Oxigenai"
+authors = [
+    { name = "Oxigenai" }
+]
+readme = "README.md"
+requires-python = ">=3.9"
+license = { file = "LICENSE" }
+classifiers = [
+    "License :: OSI Approved :: Apache Software License",
+    "Programming Language :: Python :: 3"
+]
